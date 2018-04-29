@@ -138,6 +138,7 @@ After building a several models the car had some trouble staying on the track in
 
 At the end of the process, the vehicle is able to drive autonomously around the track without leaving the road.
 
+
 Click to watch!
 
-[![Video 1](https://i.imgur.com/NZ6KYJN.jpg)]("https://www.youtube.com/watch?v=JIq5rcHnNak")
+[![Video 2](https://i.imgur.com/NZ6KYJN.jpg)](https://www.youtube.com/watch?v=JIq5rcHnNak&feature=youtu.be "Self Driving Car Project - Behavioral Cloning - Click to Watch!")
