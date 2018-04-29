@@ -140,4 +140,4 @@ At the end of the process, the vehicle is able to drive autonomously around the 
 
 Click to watch!
 
-[![Video 1](https://i.imgur.com/NZ6KYJN.jpg)]("https://youtu.be/JIq5rcHnNak")
+[![Video 1](https://i.imgur.com/NZ6KYJN.jpg)]("https://www.youtube.com/watch?v=JIq5rcHnNak")
